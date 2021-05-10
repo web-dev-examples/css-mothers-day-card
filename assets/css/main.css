@@ -1,0 +1,64 @@
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.heart {
+  width: 20em;
+  height: 20em;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%) rotate(-45deg);
+  background-color: red;
+  opacity: 0.6;
+  filter: drop-shadow(3em 1.5em .5em #eb5bebbd);
+}
+
+.heart::before, .heart::after {
+  content: '';
+  position: inherit;
+  width: inherit;
+  height: inherit;
+  border-radius: 50% 50%;
+  background-color: inherit;
+}
+
+.heart::before {
+  top: -50%;
+}
+
+.heart::after {
+  left: 50%;
+}
+
+.message {
+  width: 33em;
+  position: absolute;
+  text-align: center;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  left: 50%;
+  top: 40%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.message__title {
+  text-shadow: 0.1em -0.1em 0.075em pink;
+  font-size: 2em;
+  text-transform: uppercase;
+}
+
+.message__body {
+  width: 15em;
+  font-size: 1.5em;
+  padding-top: 2.5em;
+}
+
