@@ -7,7 +7,7 @@
 A bit of CSS and HTML to celebrate Mother's day
 
 
-## [![Byte size of Css Mothers Day Card][badge__main__css_mothers_day_card__source_code]][css_mothers_day_card__main__source_code] [![Open Issues][badge__issues__css_mothers_day_card]][issues__css_mothers_day_card] [![Open Pull Requests][badge__pull_requests__css_mothers_day_card]][pull_requests__css_mothers_day_card] [![Latest commits][badge__commits__css_mothers_day_card__main]][commits__css_mothers_day_card__main] [![css-mothers-day-card Demos][badge__gh_pages__css_mothers_day_card]][gh_pages__css_mothers_day_card]
+## [![Byte size of Css Mothers Day Card][badge__gh_pages__css_mothers_day_card__source_code]][css_mothers_day_card__gh_pages__source_code] [![Open Issues][badge__issues__css_mothers_day_card]][issues__css_mothers_day_card] [![Open Pull Requests][badge__pull_requests__css_mothers_day_card]][pull_requests__css_mothers_day_card] [![Latest commits][badge__commits__css_mothers_day_card__gh_pages]][commits__css_mothers_day_card__gh_pages] [![css-mothers-day-card Demos][badge__gh_pages__css_mothers_day_card]][gh_pages__css_mothers_day_card]
 
 
 ---
@@ -175,10 +175,10 @@ For further details review full length version of [AGPL-3.0][branch__current__li
   "&#x2696; Full length version of AGPL-3.0 License"
 
 
-[badge__commits__css_mothers_day_card__main]:
+[badge__commits__css_mothers_day_card__gh_pages]:
   https://img.shields.io/github/last-commit/web-dev-examples/css-mothers-day-card/gh-pages.svg
 
-[commits__css_mothers_day_card__main]:
+[commits__css_mothers_day_card__gh_pages]:
   https://github.com/web-dev-examples/css-mothers-day-card/commits/gh-pages
   "&#x1F4DD; History of changes on this branch"
 
@@ -210,7 +210,7 @@ For further details review full length version of [AGPL-3.0][branch__current__li
   https://github.com/web-dev-examples/css-mothers-day-card/pulls
   "&#x1F3D7; Pull Request friendly, though please check the Community guidelines"
 
-[css_mothers_day_card__main__source_code]:
+[css_mothers_day_card__gh_pages__source_code]:
   https://github.com/web-dev-examples/css-mothers-day-card/
   "&#x2328; Project source!"
 
@@ -220,7 +220,7 @@ For further details review full length version of [AGPL-3.0][branch__current__li
 [badge__pull_requests__css_mothers_day_card]:
   https://img.shields.io/github/issues-pr/web-dev-examples/css-mothers-day-card.svg
 
-[badge__main__css_mothers_day_card__source_code]:
+[badge__gh_pages__css_mothers_day_card__source_code]:
   https://img.shields.io/github/repo-size/web-dev-examples/css-mothers-day-card
 
 
